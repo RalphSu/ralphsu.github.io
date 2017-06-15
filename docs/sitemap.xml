@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hugongtech.cn/feedbacks/agile-software-development/</loc>
+    <lastmod>2017-06-15T10:44:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugongtech.cn/feedbacks/head-first-design-patterns/</loc>
+    <lastmod>2017-06-15T10:44:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugongtech.cn/_header/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hugongtech.cn/</loc>
+    <lastmod>2017-06-15T10:44:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugongtech.cn/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugongtech.cn/feedbacks/</loc>
+    <lastmod>2017-06-15T10:44:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugongtech.cn/feedbacks/feedbacks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hugongtech.cn/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog Site</title>
+    <link>http://hugongtech.cn/</link>
+    <description>Recent content on My Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 15 Jun 2017 10:44:16 +0800</lastBuildDate>
+    
+	<atom:link href="http://hugongtech.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile Software Development</title>
+      <link>http://hugongtech.cn/feedbacks/agile-software-development/</link>
+      <pubDate>Thu, 15 Jun 2017 10:44:16 +0800</pubDate>
+      
+      <guid>http://hugongtech.cn/feedbacks/agile-software-development/</guid>
+      <description> Not about agile but development </description>
+    </item>
+    
+    <item>
+      <title>Head First Design Patterns</title>
+      <link>http://hugongtech.cn/feedbacks/head-first-design-patterns/</link>
+      <pubDate>Thu, 15 Jun 2017 10:44:16 +0800</pubDate>
+      
+      <guid>http://hugongtech.cn/feedbacks/head-first-design-patterns/</guid>
+      <description> Patterns &amp;amp; Practice </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://hugongtech.cn/_header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugongtech.cn/_header/</guid>
+      <description>An reading list for programmers</description>
+    </item>
+    
+    <item>
+      <title>Feedbacks</title>
+      <link>http://hugongtech.cn/feedbacks/feedbacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugongtech.cn/feedbacks/feedbacks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
