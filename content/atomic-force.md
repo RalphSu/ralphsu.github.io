@@ -6,32 +6,34 @@
 核电技术分轻水堆（沸水堆，压水堆），重水堆，气冷堆。又分代纪为第一代，第二代，第三代，第四代，值得说的是堆型和代纪并不是对应关系。第一代是那些研究类型的堆，实际商用的都是从第二代开始。
 > #### 沸水堆
 
-老前辈了 ，占现有大概20%不到。
+老前辈了，占现有大概20%不到。美帝也发展了这个的第三代abwr
 
-<img src="https://bkimg.cdn.bcebos.com/pic/95eef01f3a292df51e53004bbc315c6035a873d8?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto" height=400 widht=400 />
+<a href="https://bkimg.cdn.bcebos.com/pic/95eef01f3a292df51e53004bbc315c6035a873d8?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto"> <img src="/img/bwr.jpeg" height=400 widht=400 /> </a>
 
 > #### 压水堆
 
-现行的核电站主力，大概60%。两回路运行，冷却水不是直接推动汽轮机发电，而是在蒸汽发生器由冷却水把发电水变成蒸汽去驱动汽轮机发电。直观来说和反应堆有接触的冷却水不直接接触汽轮机了，但是蒸汽发生器相应也成了一个复杂器件。现在主要的技术都是法国的。
+现行的核电站主力，占大概60%。两回路运行，冷却水不是直接推动汽轮机发电，而是在蒸汽发生器由冷却水把发电水变成蒸汽去驱动汽轮机发电。直观来说和反应堆有接触的冷却水不直接接触汽轮机了，但是蒸汽发生器相应也成了一个复杂器件。现在主要的技术都是法国的。
 
-<img src="https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a98226c81dc05f9d82b9014b90be80?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" height=400 width=400/>
+<a href="https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a98226c81dc05f9d82b9014b90be80?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto"> <img src="/img/pwr.jpeg"  heigh=400 width=400 /> </a>
 
 > #### 重水堆
 顾名思义是用重水作为慢化剂。目前只有加拿大的一款有商用推广，重水堆一大特色是可以用天然铀做原料，甚至中核还有在秦山核电站把压水堆核废料放入重水堆的报道。
 
-<img src="https://bkimg.cdn.bcebos.com/pic/3b292df5e0fe9925e01768913da85edf8cb171d3?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto" heigh=400 width=400 />
+<a href= "https://bkimg.cdn.bcebos.com/pic/3b292df5e0fe9925e01768913da85edf8cb171d3?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto"> <img src="/img/hwr.jpeg"  heigh=400 width=400 /> </a>
 
-> #### 气冷堆
+> #### 高温气冷堆
 气冷堆是指用石墨慢化、二氧化碳或氦气冷却的反应堆。用二氧化碳冷却的石墨气冷堆，曾在核电站的发展中占领先地位，但很快就让位于轻水堆，并将逐渐退出反应堆的历史舞台。关于气冷堆的研究，越来越集中在用氦气冷却的高温气冷堆上。
 这里的氦气高温气冷堆也是我国这两年在投入研究的，理论上一大特点是发生事故时自动停堆，不可能发生堆芯熔融。
 
-<img src="https://bkimg.cdn.bcebos.com/pic/060828381f30e9240d8cf54346086e061d95f79c?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" height=400 width=400/>
+<a href= "https://zh.wikipedia.org/wiki/%E9%AB%98%E6%B8%A9%E6%B0%94%E5%86%B7%E5%A0%86#/media/File:Very_High_Temperature_Reactor.svg"> <img src="/img/htgr.svg"  heigh=400 width=400 /> </a>
 
 ### 广为人知的几个核电站事故
-核电故障分级分为七级，都有发生堆芯熔融。
+核电故障分级分为七级，下面知名的都有发生堆芯熔融。
+<ul>
 <li/>三里岛：压水堆，5级事故
 <li/>切尔诺贝利：沸水堆，7级事故
-<li/>福岛：70年代的沸水堆，5级事故
+<li/>福岛：70年代的沸水堆，7级事故
+</ul>
 
 <hl />
 
@@ -39,7 +41,7 @@
 我国2020年核电发电占比大概是5%，规划要到10-15%的样子。
 目前已建和规划的大概是这样，可以想见大部分都是东部沿海。
 
-<img src="/img/china-nuclear-plant.png" height=400 width=400 />
+<a href="http://spi.mee.gov.cn:8080/spi/"> <img src="/img/china-nuclear-plant.png" height=400 width=400 /> </a>
 
 ### 我国核电有卡脖子问题吗？
 #### 技术自给自足能力
@@ -70,6 +72,9 @@ http://data.rmtc.org.cn:8080/gis/
 
 #### 核原料自给自足
 引用：“2017年我国铀资源对外依存度高达77%，并常年维持在70%以上。”
+
+### 引用
+<a href="https://pdf.dfcfw.com/pdf/H3_AP202109301519537327_1.pdf?1633021078000.pdf"> 某券商报告 </a>
 
 ## 核聚变的路线和中外现状
 // TBD
