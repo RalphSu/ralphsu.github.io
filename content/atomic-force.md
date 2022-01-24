@@ -77,4 +77,6 @@ http://data.rmtc.org.cn:8080/gis/
 <a href="https://pdf.dfcfw.com/pdf/H3_AP202109301519537327_1.pdf?1633021078000.pdf"> 某券商报告 </a>
 
 ## 核聚变的路线和中外现状
-// TBD
+见 <a href="fusion-force">核聚变发电</a>
+
+首发：2022-01-04
