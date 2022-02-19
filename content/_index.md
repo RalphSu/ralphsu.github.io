@@ -10,8 +10,8 @@
 
 
 ### 下一篇预告
-#### xx汗到底是啥意思，蒙古正统在通辽？
-#### 美国，俄国的基本部队部署
+#### 中国足球职业化历史，和欧美的职业化足球对比
+#### 现代农业和无土农业研究，要有数字对比
 
 #### 技术篇：Anomaly Detection Using Program Control Flow Graph Mining from Execution Logs. Log Template
 #### Fast Dimensional Analysis for Root Cause Investigation in a Large-Scale Service Environment
