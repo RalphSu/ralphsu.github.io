@@ -10,8 +10,9 @@
 
 
 ### 下一篇预告
-#### 中国足球职业化历史，和欧美的职业化足球对比
-#### 现代农业和无土农业研究，要有数字对比
+#### 30岁以上女性可以未婚生子的合法性 
+
+#### 可以挑选一些行业做一些自主可控的研究，如果能形成一些自主可控的研究框架就好了。
 
 #### 技术篇：Anomaly Detection Using Program Control Flow Graph Mining from Execution Logs. Log Template
 #### Fast Dimensional Analysis for Root Cause Investigation in a Large-Scale Service Environment
