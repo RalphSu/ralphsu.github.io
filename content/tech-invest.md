@@ -56,11 +56,17 @@
 那么问题来了，美帝的智库说的中国的科研存在问题，到底是啥问题，在哪里体现，如果解决呢。目前个人的结论科研还是靠大力出奇迹，在天量的科研投入面前，个别的小问题一定会在，但是只要是大方向（投入方向，鼓励全球合作，鼓励产研结合），那些小问题会被融合进入趋势。
 
 # 引用
-http://www.stats.gov.cn/tjsj/tjgb/rdpcgb/qgkjjftrtjgb/
 
+全球竞争力指数： https://www.wipo.int/publications/zh/details.jsp?id=4564&plang=ZH
+
+https://cn.chinadaily.com.cn/a/202110/15/WS61695ec9a3107be4979f2db5.html
+
+中国研发投入公报：http://www.stats.gov.cn/tjsj/tjgb/rdpcgb/qgkjjftrtjgb/
 
 http://www.stats.gov.cn/tjsj/zxfb/202109/t20210922_1822342.html
 
-https://ncses.nsf.gov/pubs/nsb20221/u-s-and-global-research-and-development
+美国NSF的科研投入分析报告： https://ncses.nsf.gov/pubs/nsb20221/u-s-and-global-research-and-development
 
 https://sgp.fas.org/crs/misc/R44307.pdf
+
+首发：2022-04-24

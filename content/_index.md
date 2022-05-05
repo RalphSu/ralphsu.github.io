@@ -11,8 +11,6 @@
 
 ### 下一篇预告
 
-#### 我国科技投入产出简单分析
-
 #### 可以挑选一些行业做一些自主可控的研究，如果能形成一些自主可控的研究框架就好了。
 
 #### 技术篇：Anomaly Detection Using Program Control Flow Graph Mining from Execution Logs. Log Template
