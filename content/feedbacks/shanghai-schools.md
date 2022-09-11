@@ -111,7 +111,6 @@
 <b>志愿的方式2021改革后有点不同，以下有待更新 </b>
 先说具体填报方式，大概如下：
 
-<img src="/img/highschool-flow.jpg"/>
 
 #### 推优
 #### 自荐
@@ -123,11 +122,14 @@
 
 这里就快速把初中排名列一下
 
-<img src="/img/浦东初中-20220606140218_2355.png"/>
+<img src="/img/pudongchuzhong-20220606140218_2355.png"/>
 
-<img src="/img/杨浦初中-20220606140436_9981.png"/>
+<img src="/img/yangpuchuzhong-20220606140436_9981.png"/>
 
-<img src="/img/闵行初中-20220606140228_8221.png"/>
+<img src="/img/minhangchuzhong-20220606140228_8221.png"/>
+
+<img src="/img/pudong-chuzhong.png>
+
 
 ## 小学
 
@@ -166,3 +168,5 @@ http://lingao.ygjj.com/D461952.html
 
 <a href="/img/浦东小学地段对口- pdxs2022.xls">浦东小学地段对口- pdxs2022.xls</a>
 
+
+初中 http://m.chusan.com/zhongkao/101775.html
