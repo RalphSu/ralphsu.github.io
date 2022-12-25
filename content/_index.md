@@ -24,5 +24,5 @@
 
 #### 可以挑选一些行业做一些自主可控的研究，如果能形成一些自主可控的研究框架就好了。
 
-#### 技术篇：Anomaly Detection Using Program Control Flow Graph Mining from Execution Logs. Log Template
-#### Fast Dimensional Analysis for Root Cause Investigation in a Large-Scale Service Environment
+
+#### dremel的列式文件设计或者parquet的设计
