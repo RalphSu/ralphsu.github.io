@@ -24,3 +24,5 @@ IT equipment uses. If no power losses were to occur and no additional power were
 1.0. A PUE of 2.0 means that for every watt used by IT equipment, another watt is used by cooling, power distribution, and
 lighting equipment.
 还顺便看了篇 data center hardware tech refresh cycle的文章..
+
+结合cadvisor & nodeexporter
