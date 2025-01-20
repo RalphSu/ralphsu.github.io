@@ -70,4 +70,7 @@ http://www.stats.gov.cn/tjsj/zxfb/202109/t20210922_1822342.html
 https://sgp.fas.org/crs/misc/R44307.pdf
 
 首发：2022-04-24
-更新：2025-01-20：添加引用链接： https://www.aaas.org/sites/default/files/2024-04/AAAS%20Global%20RD%20Update%202024.pdf
+更新：2025-01-20 添加引用链接： 
+  https://www.aaas.org/sites/default/files/2024-04/AAAS%20Global%20RD%20Update%202024.pdf : U.S. R&D and Innovation in a Global Context: The 2024 Data Update
+  https://crsreports.congress.gov/product/pdf/R/R48307/1 : Federal Research and Development (R&D) Funding: FY2025
+  https://ncses.nsf.gov/data-collections/federal-budget-function/2023-2025 
