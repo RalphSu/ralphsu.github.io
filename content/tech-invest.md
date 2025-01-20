@@ -70,3 +70,4 @@ http://www.stats.gov.cn/tjsj/zxfb/202109/t20210922_1822342.html
 https://sgp.fas.org/crs/misc/R44307.pdf
 
 首发：2022-04-24
+更新：2025-01-20：添加引用链接： https://www.aaas.org/sites/default/files/2024-04/AAAS%20Global%20RD%20Update%202024.pdf
